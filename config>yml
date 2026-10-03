@@ -1,0 +1,18 @@
+ConnectSpace/
+│
+├── index.html          ← Homepage
+├── signup.html         ← Sign-up page
+├── login.html          ← Login page
+├── profile.html        ← User profile
+├── discover.html       ← Find friends
+├── messages.html       ← Messaging
+├── settings.html       ← Settings
+│
+├── css/
+│   └── style.css       ← Website design/theme
+│
+├── js/
+│   └── script.js       ← Buttons and interactions
+│
+└── images/
+    └── logo.png        ← Logo/images
